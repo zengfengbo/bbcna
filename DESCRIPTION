@@ -1,0 +1,13 @@
+Package: bbcna
+Title: Copy Number
+Version: 0.0.0.9000
+Authors@R: person("Fengbo", "Zeng", email = "529063092@qq.com", role = c("aut", "cre"))
+Description: Copy Number
+Depends:
+    R (>= 3.2.1),
+    data.table
+License: MIT
+LazyData: true
+Imports:
+    data.table (>= 1.9.6)
+RoxygenNote: 5.0.0
